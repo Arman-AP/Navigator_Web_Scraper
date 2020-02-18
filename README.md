@@ -3,8 +3,11 @@ A Python Web Scraper to scrape data from Navigator and generate a word document 
 
 ## Libraries and Frameworks used:
 Selenium
+
 Chrome Web Driver
+
 Beautiful Soup
+
 MailMerge
 
 ## Installation
